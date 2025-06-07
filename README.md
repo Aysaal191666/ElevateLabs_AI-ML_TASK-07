@@ -13,13 +13,12 @@ This project implements a **Support Vector Machine (SVM)**-based classifier to d
 
 ## 📁 Dataset
 
-- **Source**: [Breast Cancer Wisconsin Diagnostic Dataset - UCI](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+- **Source**: [Breast Cancer Wisconsin Diagnostic Dataset (via scikit-learn)](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
 - **Features**: 30 numerical features computed from digitized images of a breast mass.
 - **Target**:  
   - `0`: Benign  
   - `1`: Malignant
 
----
 
 ---
 
