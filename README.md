@@ -31,7 +31,7 @@ This project implements a **Support Vector Machine (SVM)**-based classifier to d
 | Precision  | 0.95       | 1.00          |
 | Recall     | 1.00       | 0.90          |
 | F1-Score   | 0.97       | 0.95          |
-| Accuracy   | **0.96**   |               |
+| Accuracy   | **0.96**                  |
 
 ---
 
@@ -42,7 +42,7 @@ This project implements a **Support Vector Machine (SVM)**-based classifier to d
 | Precision  | 0.96       | 1.00          |
 | Recall     | 1.00       | 0.93          |
 | F1-Score   | 0.98       | 0.96          |
-| Accuracy   | **0.97**   |               |
+| Accuracy   | **0.97**                  |
 
 ---
 
@@ -56,7 +56,7 @@ This project implements a **Support Vector Machine (SVM)**-based classifier to d
 | Precision  | 0.96       | 0.95          |
 | Recall     | 0.97       | 0.93          |
 | F1-Score   | 0.97       | 0.94          |
-| Accuracy   | **0.96**   |               |
+| Accuracy   | **0.96**                  |
 
 ---
 
